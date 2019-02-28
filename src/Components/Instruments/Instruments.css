@@ -1,0 +1,15 @@
+.card-title{ 
+	text-transform: uppercase;
+}
+
+.card {
+	height: 11rem;
+}
+
+.mainDiv {
+	margin-top: 10px;
+}
+
+.nav-link {
+	color: white !important;
+}
